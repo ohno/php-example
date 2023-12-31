@@ -1,4 +1,4 @@
-# PHP-example
+# php-example
 
 ```
 php -S localhost:8000
